@@ -10,7 +10,7 @@ Transformando dados de chão de fábrica em inteligência de negócio. O elo ent
 
 Sou engenheiro eletricista e atuo como **Especialista em Automação na Viapol** (Caçapava-SP). Com uma sólida base técnica construída em Eletrônica, Telecomunicações, Elétrica e Instrumentação, encontrei no desenvolvimento web a peça que faltava para impulsionar a **Indústria 4.0**.
 
-Minha grande especialidade é a **convergência tecnológica**: conecto o hardware industrial ao software moderno. Desenvolvo desde a lógica dos PLCs e supervisórios até arquiteturas completas de Back-End (APIs robustas) e interfaces modernas de Front-End (dashboards industriais e gerenciais).
+Minha especialidade é a **convergência tecnológica**: conecto o hardware industrial ao software moderno. Desenvolvo desde a lógica dos PLCs e supervisórios até arquiteturas completas de Back-End (APIs robustas) e interfaces modernas de Front-End (dashboards industriais e gerenciais).
 
 - 📍 Baseado em São Paulo / SP (Natural de Minas Gerais)
 - ⚙️ +20 anos de vivência com elétrica, instrumentação e automação
@@ -137,7 +137,8 @@ Minha grande especialidade é a **convergência tecnológica**: conecto o hardwa
 
 ### 🏭 Automação & Indústria (OT)
 
-- **PLCs:** Siemens S7 (TIA Portal) | Rockwell (SLC500) | Emerson (DeltaV)
+- **PLCs:** Siemens S7 (TIA Portal) | Rockwell (SLC500) | Emerson (DeltaV) | Schneider
+- **IHMs:** Siemens | Delta | Weg | Schneider
 - **Supervisórios:** Elipse E3
 - **Engenharia:** Elétrica | Instrumentação | Eletrônica | Telecomunicações
 
@@ -152,7 +153,7 @@ Minha grande especialidade é a **convergência tecnológica**: conecto o hardwa
 
 ## 🎯 Objetivo no Portfólio
 
-Apresentar soluções práticas de sistemas industriais integrados. Se você procura um profissional que entende tanto de **redes de campo e registradores de PLC** quanto de **rotas de API e estados do React**, você está no lugar certo.
+Apresentar soluções práticas de sistemas industriais integrados. Se você procura um profissional que trabalhe com  **redes de campo e registradores de PLC** quanto de **rotas de API e estados do React**, aqui é o lugar.
 
 ---
 
